@@ -1,6 +1,6 @@
 # British-Airways-Sentimental-Analysis
 
-![project_image](https://your_project_image_url_here)
+![project_image]([https://your_project_image_url_here](https://github.com/kamaupaul/British-Airways-Sentimental-Analysis/blob/main/data/Sentiment_Analysis_Projects.png))
 
 ## Table of Contents
 
