@@ -113,6 +113,11 @@ The models were evaluated using accuracy as the primary metric to assess their a
 
 By addressing these findings, conclusions, limitations, recommendations, and next steps, the sentiment analysis project will evolve into a more robust and actionable tool for British Airways to enhance customer satisfaction and make informed business decisions.
 
+### **Deployment**
+I deployed the model using the framework STREAMLIT. The application takes a sentence and returns the sentiment. Link to web app 
+https://british-airways-sentimental-analysis-erqxrityuerb75kkgpwpmz.streamlit.app/
+
+
 ## Installation
 
 To install and run this project:
