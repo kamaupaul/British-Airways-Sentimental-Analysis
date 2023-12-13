@@ -66,12 +66,12 @@ The models were evaluated using accuracy as the primary metric to assess their a
 * For Multiclass Multinomial Naive Bayes Model was better.
   
 1. **Logistic Regression Model:**
-   - **Accuracy:** 0.79
+   - **Accuracy:** 0.84
    - **Precision, Recall, F1-Score:** Varies per class
    - **Comment:** The logistic regression model achieved a decent overall accuracy, but it's essential to examine class-specific metrics for a more detailed evaluation.
 
 2. **Multinomial Naive Bayes Model:**
-   - **Accuracy:** 0.75
+   - **Accuracy:** 0.78
    - **Precision, Recall, F1-Score:** Varies per class
    - **Comment:** The Multinomial Naive Bayes model showed lower accuracy compared to logistic regression. It's essential to investigate the class-specific metrics to understand its performance on individual classes.
 
@@ -79,6 +79,8 @@ The models were evaluated using accuracy as the primary metric to assess their a
    - **Accuracy:** 0.72
    - **Precision, Recall, F1-Score:** Varies per class
    - **Comment:** XGBoost performance is slightly lower than logistic regression and Naive Bayes. Investigate class-specific metrics for more insights.
+
+![image](https://github.com/kamaupaul/British-Airways-Sentimental-Analysis/assets/124625810/3bf46ce0-1ba3-4486-8608-31009592531b)
 
 ## Conclusion
 
@@ -113,9 +115,10 @@ The models were evaluated using accuracy as the primary metric to assess their a
 
 By addressing these findings, conclusions, limitations, recommendations, and next steps, the sentiment analysis project will evolve into a more robust and actionable tool for British Airways to enhance customer satisfaction and make informed business decisions.
 
+
 ### **Deployment**
 I deployed the model using the framework STREAMLIT. The application takes a sentence and returns the sentiment. Link to web app 
-https://british-airways-sentimental-analysis-erqxrityuerb75kkgpwpmz.streamlit.app/
+[https://british-airways-sentimental-analysis-erqxrityuerb75kkgpwpmz.streamlit.app/](https://british-airways-sentimental-analysis-erqxrityuerb75kkgpwpmz.streamlit.app/)
 
 
 ## Installation
